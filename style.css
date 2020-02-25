@@ -154,7 +154,7 @@ img {
   justify-content: center;
   align-items: center;
   width: 100%;
-  height: 50vh;
+  height: 40vh;
   background-color: #000;
   background-image: linear-gradient(62deg, #3a3d40 0%, #181719 100%);
   background-image:
@@ -269,7 +269,7 @@ img {
   align-items: center;
   text-align: center;
   width: 100%;
-  height: 80vh;
+  height: 40vh;
   padding: 0 2rem;
   background: var(black);
   background-image:
